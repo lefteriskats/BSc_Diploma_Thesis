@@ -7,5 +7,3 @@ The subject of this thesis is the wireless recording and representation of tempe
 
 **TIP:** *For your convenience with file manipulation in the SD card and SPIFFS memory of the ESP32, copy and paste the two sketches folders of the "Useful Arduino sketches" in your Arduino sketchbook directory.*
 
-<ins>**To Do**</ins>
-- [ ] Add thesis pdf file after english translation
